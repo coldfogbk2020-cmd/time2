@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Time Tracking Kiosk",
+  "description": "A comprehensive time tracking application with a kiosk mode for employees to clock in/out using a camera, and an admin panel for management, payroll reports, and data export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
